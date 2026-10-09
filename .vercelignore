@@ -1,0 +1,9 @@
+*.py
+*.sh
+Dockerfile
+nginx.conf
+*.json
+!vercel.json
+*.log
+.git
+.gitignore
