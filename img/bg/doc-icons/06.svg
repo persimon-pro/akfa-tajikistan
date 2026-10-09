@@ -1,0 +1,17 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Human Resources Policy Icon</title>
+  <desc id="desc">Minimal white line icon of a policy document and team of people.</desc>
+  <g stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M42 14H82L102 34V78"/>
+    <path d="M42 14V78"/>
+    <path d="M82 14V34H102"/>
+    <path d="M56 44H72"/>
+    <path d="M56 58H88"/>
+    <circle cx="64" cy="78" r="13"/>
+    <path d="M42 112C45 96 53 91 64 91C75 91 83 96 86 112H42Z"/>
+    <circle cx="32" cy="86" r="9"/>
+    <path d="M14 112C17 101 23 96 32 96C38 96 43 99 47 104"/>
+    <circle cx="96" cy="86" r="9"/>
+    <path d="M81 104C85 99 90 96 96 96C105 96 111 101 114 112"/>
+  </g>
+</svg>

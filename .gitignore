@@ -1,0 +1,12 @@
+.DS_Store
+*.tgz
+*.log
+downloader.py
+builder.py
+deploy*.py
+translate*.py
+full_merged_translations.json
+all_translations_cache.json
+translation_cache.json
+raw_html/
+.vercel
