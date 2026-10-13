@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Host
+Host: https://akfa-group.tj
+
+# Sitemap
+Sitemap: https://akfa-group.tj/sitemap.xml
