@@ -3,15 +3,51 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://akfa-group.tj/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/index.html"/>
     <xhtml:link rel="alternate" hreflang="tg" href="https://akfa-group.tj/tj/index.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://akfa-group.tj/en/index.html"/>
   </url>  <url>
+    <loc>https://akfa-group.tj/price.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/price.html"/>
+    <xhtml:link rel="alternate" hreflang="tg" href="https://akfa-group.tj/tj/price.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://akfa-group.tj/en/price.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/price.html"/>
+  </url>  <url>
+    <loc>https://akfa-group.tj/ru/price.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/price.html"/>
+    <xhtml:link rel="alternate" hreflang="tg" href="https://akfa-group.tj/tj/price.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://akfa-group.tj/en/price.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/price.html"/>
+  </url>  <url>
+    <loc>https://akfa-group.tj/tj/price.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/price.html"/>
+    <xhtml:link rel="alternate" hreflang="tg" href="https://akfa-group.tj/tj/price.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://akfa-group.tj/en/price.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/price.html"/>
+  </url>  <url>
+    <loc>https://akfa-group.tj/en/price.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/price.html"/>
+    <xhtml:link rel="alternate" hreflang="tg" href="https://akfa-group.tj/tj/price.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://akfa-group.tj/en/price.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/price.html"/>
+  </url>  <url>
     <loc>https://akfa-group.tj/ru/Procurement.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/Procurement.html"/>
@@ -20,7 +56,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/Procurement.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/Procurement.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/Procurement.html"/>
@@ -29,7 +65,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/Procurement.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/Procurement.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/Procurement.html"/>
@@ -38,7 +74,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/Procurement.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/abdurakhim_aminov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/abdurakhim_aminov.html"/>
@@ -47,7 +83,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/abdurakhim_aminov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/abdurakhim_aminov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/abdurakhim_aminov.html"/>
@@ -56,7 +92,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/abdurakhim_aminov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/abdurakhim_aminov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/abdurakhim_aminov.html"/>
@@ -65,7 +101,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/abdurakhim_aminov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/about.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/about.html"/>
@@ -74,7 +110,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/about.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/about.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/about.html"/>
@@ -83,7 +119,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/about.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/about.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/about.html"/>
@@ -92,7 +128,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/about.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/abror_ganiev.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/abror_ganiev.html"/>
@@ -101,7 +137,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/abror_ganiev.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/abror_ganiev.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/abror_ganiev.html"/>
@@ -110,7 +146,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/abror_ganiev.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/abror_ganiev.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/abror_ganiev.html"/>
@@ -119,7 +155,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/abror_ganiev.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/accountant.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/accountant.html"/>
@@ -128,7 +164,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/accountant.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/accountant.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/accountant.html"/>
@@ -137,7 +173,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/accountant.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/accountant.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/accountant.html"/>
@@ -146,7 +182,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/accountant.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/adnan_caliskan.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/adnan_caliskan.html"/>
@@ -155,7 +191,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/adnan_caliskan.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/adnan_caliskan.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/adnan_caliskan.html"/>
@@ -164,7 +200,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/adnan_caliskan.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/adnan_caliskan.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/adnan_caliskan.html"/>
@@ -173,7 +209,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/adnan_caliskan.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/aerocrete.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/aerocrete.html"/>
@@ -182,7 +218,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/aerocrete.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/aerocrete.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/aerocrete.html"/>
@@ -191,7 +227,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/aerocrete.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/aerocrete.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/aerocrete.html"/>
@@ -200,7 +236,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/aerocrete.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/akf47.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/akf47.html"/>
@@ -209,7 +245,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/akf47.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/akf47.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/akf47.html"/>
@@ -218,7 +254,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/akf47.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/akf47.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/akf47.html"/>
@@ -227,7 +263,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/akf47.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/akfa_Innovation.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/akfa_Innovation.html"/>
@@ -236,7 +272,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/akfa_Innovation.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/akfa_Innovation.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/akfa_Innovation.html"/>
@@ -245,7 +281,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/akfa_Innovation.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/akfa_Innovation.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/akfa_Innovation.html"/>
@@ -254,7 +290,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/akfa_Innovation.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/akfa_assembly.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/akfa_assembly.html"/>
@@ -263,7 +299,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/akfa_assembly.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/akfa_assembly.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/akfa_assembly.html"/>
@@ -272,7 +308,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/akfa_assembly.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/akfa_assembly.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/akfa_assembly.html"/>
@@ -281,7 +317,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/akfa_assembly.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/akfa_building_materials.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/akfa_building_materials.html"/>
@@ -290,7 +326,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/akfa_building_materials.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/akfa_building_materials.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/akfa_building_materials.html"/>
@@ -299,7 +335,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/akfa_building_materials.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/akfa_building_materials.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/akfa_building_materials.html"/>
@@ -308,7 +344,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/akfa_building_materials.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/akfa_extrusions.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/akfa_extrusions.html"/>
@@ -317,7 +353,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/akfa_extrusions.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/akfa_extrusions.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/akfa_extrusions.html"/>
@@ -326,7 +362,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/akfa_extrusions.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/akfa_extrusions.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/akfa_extrusions.html"/>
@@ -335,7 +371,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/akfa_extrusions.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/aldox.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/aldox.html"/>
@@ -344,7 +380,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/aldox.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/aldox.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/aldox.html"/>
@@ -353,7 +389,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/aldox.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/aldox.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/aldox.html"/>
@@ -362,7 +398,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/aldox.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/aldox2.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/aldox2.html"/>
@@ -371,7 +407,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/aldox2.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/aldox2.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/aldox2.html"/>
@@ -380,7 +416,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/aldox2.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/aldox2.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/aldox2.html"/>
@@ -389,7 +425,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/aldox2.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/alisher_srajidinov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/alisher_srajidinov.html"/>
@@ -398,7 +434,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/alisher_srajidinov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/alisher_srajidinov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/alisher_srajidinov.html"/>
@@ -407,7 +443,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/alisher_srajidinov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/alisher_srajidinov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/alisher_srajidinov.html"/>
@@ -416,7 +452,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/alisher_srajidinov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/aluminum_window_profiles.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/aluminum_window_profiles.html"/>
@@ -425,7 +461,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/aluminum_window_profiles.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/aluminum_window_profiles.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/aluminum_window_profiles.html"/>
@@ -434,7 +470,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/aluminum_window_profiles.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/aluminum_window_profiles.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/aluminum_window_profiles.html"/>
@@ -443,7 +479,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/aluminum_window_profiles.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/avangard.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/avangard.html"/>
@@ -452,7 +488,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/avangard.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/avangard.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/avangard.html"/>
@@ -461,7 +497,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/avangard.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/avangard.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/avangard.html"/>
@@ -470,7 +506,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/avangard.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/aziz_ibragimkhodjaev.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/aziz_ibragimkhodjaev.html"/>
@@ -479,7 +515,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/aziz_ibragimkhodjaev.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/aziz_ibragimkhodjaev.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/aziz_ibragimkhodjaev.html"/>
@@ -488,7 +524,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/aziz_ibragimkhodjaev.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/aziz_ibragimkhodjaev.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/aziz_ibragimkhodjaev.html"/>
@@ -497,7 +533,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/aziz_ibragimkhodjaev.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/azizbek_kurbanov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/azizbek_kurbanov.html"/>
@@ -506,7 +542,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/azizbek_kurbanov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/azizbek_kurbanov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/azizbek_kurbanov.html"/>
@@ -515,7 +551,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/azizbek_kurbanov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/azizbek_kurbanov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/azizbek_kurbanov.html"/>
@@ -524,7 +560,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/azizbek_kurbanov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/ben_elfrink.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/ben_elfrink.html"/>
@@ -533,7 +569,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/ben_elfrink.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/ben_elfrink.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/ben_elfrink.html"/>
@@ -542,7 +578,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/ben_elfrink.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/ben_elfrink.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/ben_elfrink.html"/>
@@ -551,7 +587,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/ben_elfrink.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/bkf-max.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkf-max.html"/>
@@ -560,7 +596,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkf-max.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/bkf-max.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkf-max.html"/>
@@ -569,7 +605,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkf-max.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/bkf-max.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkf-max.html"/>
@@ -578,7 +614,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkf-max.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/bkg-40.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkg-40.html"/>
@@ -587,7 +623,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkg-40.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/bkg-40.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkg-40.html"/>
@@ -596,7 +632,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkg-40.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/bkg-40.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkg-40.html"/>
@@ -605,7 +641,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkg-40.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/bkh-38.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkh-38.html"/>
@@ -614,7 +650,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkh-38.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/bkh-38.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkh-38.html"/>
@@ -623,7 +659,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkh-38.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/bkh-38.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkh-38.html"/>
@@ -632,7 +668,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkh-38.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/bkh-60.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkh-60.html"/>
@@ -641,7 +677,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkh-60.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/bkh-60.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkh-60.html"/>
@@ -650,7 +686,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkh-60.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/bkh-60.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkh-60.html"/>
@@ -659,7 +695,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkh-60.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/bkh-65.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkh-65.html"/>
@@ -668,7 +704,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkh-65.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/bkh-65.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkh-65.html"/>
@@ -677,7 +713,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkh-65.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/bkh-65.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkh-65.html"/>
@@ -686,7 +722,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkh-65.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/bko-38.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bko-38.html"/>
@@ -695,7 +731,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bko-38.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/bko-38.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bko-38.html"/>
@@ -704,7 +740,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bko-38.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/bko-38.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bko-38.html"/>
@@ -713,7 +749,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bko-38.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/bko-40.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bko-40.html"/>
@@ -722,7 +758,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bko-40.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/bko-40.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bko-40.html"/>
@@ -731,7 +767,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bko-40.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/bko-40.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bko-40.html"/>
@@ -740,7 +776,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bko-40.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/bkt67.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkt67.html"/>
@@ -749,7 +785,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkt67.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/bkt67.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkt67.html"/>
@@ -758,7 +794,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkt67.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/bkt67.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkt67.html"/>
@@ -767,7 +803,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkt67.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/bkt70.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkt70.html"/>
@@ -776,7 +812,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkt70.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/bkt70.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkt70.html"/>
@@ -785,7 +821,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkt70.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/bkt70.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkt70.html"/>
@@ -794,7 +830,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkt70.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/bkt77.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkt77.html"/>
@@ -803,7 +839,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkt77.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/bkt77.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkt77.html"/>
@@ -812,7 +848,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkt77.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/bkt77.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkt77.html"/>
@@ -821,7 +857,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkt77.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/bkt97.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkt97.html"/>
@@ -830,7 +866,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkt97.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/bkt97.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkt97.html"/>
@@ -839,7 +875,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkt97.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/bkt97.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/bkt97.html"/>
@@ -848,7 +884,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/bkt97.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/caliente.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/caliente.html"/>
@@ -857,7 +893,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/caliente.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/caliente.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/caliente.html"/>
@@ -866,7 +902,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/caliente.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/caliente.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/caliente.html"/>
@@ -875,7 +911,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/caliente.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/career.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/career.html"/>
@@ -884,7 +920,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/career.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/career.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/career.html"/>
@@ -893,7 +929,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/career.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/career.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/career.html"/>
@@ -902,7 +938,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/career.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/careers.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/careers.html"/>
@@ -911,7 +947,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/careers.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/careers.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/careers.html"/>
@@ -920,7 +956,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/careers.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/careers.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/careers.html"/>
@@ -929,7 +965,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/careers.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/charity_foundation.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/charity_foundation.html"/>
@@ -938,7 +974,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/charity_foundation.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/charity_foundation.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/charity_foundation.html"/>
@@ -947,7 +983,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/charity_foundation.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/charity_foundation.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/charity_foundation.html"/>
@@ -956,7 +992,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/charity_foundation.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/classic350.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/classic350.html"/>
@@ -965,7 +1001,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/classic350.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/classic350.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/classic350.html"/>
@@ -974,7 +1010,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/classic350.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/classic350.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/classic350.html"/>
@@ -983,7 +1019,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/classic350.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/classic500.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/classic500.html"/>
@@ -992,7 +1028,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/classic500.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/classic500.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/classic500.html"/>
@@ -1001,7 +1037,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/classic500.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/classic500.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/classic500.html"/>
@@ -1010,7 +1046,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/classic500.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/community.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/community.html"/>
@@ -1019,7 +1055,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/community.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/community.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/community.html"/>
@@ -1028,7 +1064,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/community.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/community.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/community.html"/>
@@ -1037,7 +1073,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/community.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/companies.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/companies.html"/>
@@ -1046,7 +1082,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/companies.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/companies.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/companies.html"/>
@@ -1055,7 +1091,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/companies.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/companies.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/companies.html"/>
@@ -1064,7 +1100,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/companies.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/components.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/components.html"/>
@@ -1073,7 +1109,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/components.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/components.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/components.html"/>
@@ -1082,7 +1118,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/components.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/components.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/components.html"/>
@@ -1091,7 +1127,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/components.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/construction-sector.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/construction-sector.html"/>
@@ -1100,7 +1136,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/construction-sector.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/construction-sector.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/construction-sector.html"/>
@@ -1109,7 +1145,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/construction-sector.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/construction-sector.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/construction-sector.html"/>
@@ -1118,7 +1154,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/construction-sector.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/contacts.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/contacts.html"/>
@@ -1127,7 +1163,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/contacts.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/contacts.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/contacts.html"/>
@@ -1136,7 +1172,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/contacts.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/contacts.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/contacts.html"/>
@@ -1145,7 +1181,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/contacts.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/corporate_culture.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/corporate_culture.html"/>
@@ -1154,7 +1190,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/corporate_culture.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/corporate_culture.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/corporate_culture.html"/>
@@ -1163,7 +1199,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/corporate_culture.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/corporate_culture.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/corporate_culture.html"/>
@@ -1172,7 +1208,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/corporate_culture.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/corporate_governance.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/corporate_governance.html"/>
@@ -1181,7 +1217,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/corporate_governance.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/corporate_governance.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/corporate_governance.html"/>
@@ -1190,7 +1226,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/corporate_governance.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/corporate_governance.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/corporate_governance.html"/>
@@ -1199,7 +1235,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/corporate_governance.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/corporate_structure.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/corporate_structure.html"/>
@@ -1208,7 +1244,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/corporate_structure.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/corporate_structure.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/corporate_structure.html"/>
@@ -1217,7 +1253,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/corporate_structure.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/corporate_structure.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/corporate_structure.html"/>
@@ -1226,7 +1262,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/corporate_structure.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/data-processing.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/data-processing.html"/>
@@ -1235,7 +1271,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/data-processing.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/data-processing.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/data-processing.html"/>
@@ -1244,7 +1280,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/data-processing.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/data-processing.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/data-processing.html"/>
@@ -1253,7 +1289,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/data-processing.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/dilshod_ruzmetov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/dilshod_ruzmetov.html"/>
@@ -1262,7 +1298,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/dilshod_ruzmetov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/dilshod_ruzmetov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/dilshod_ruzmetov.html"/>
@@ -1271,7 +1307,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/dilshod_ruzmetov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/dilshod_ruzmetov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/dilshod_ruzmetov.html"/>
@@ -1280,7 +1316,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/dilshod_ruzmetov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/documents.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/documents.html"/>
@@ -1289,7 +1325,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/documents.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/documents.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/documents.html"/>
@@ -1298,7 +1334,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/documents.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/documents.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/documents.html"/>
@@ -1307,7 +1343,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/documents.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/donation.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/donation.html"/>
@@ -1316,7 +1352,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/donation.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/donation.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/donation.html"/>
@@ -1325,7 +1361,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/donation.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/donation.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/donation.html"/>
@@ -1334,7 +1370,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/donation.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/doors.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/doors.html"/>
@@ -1343,7 +1379,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/doors.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/doors.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/doors.html"/>
@@ -1352,7 +1388,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/doors.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/doors.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/doors.html"/>
@@ -1361,7 +1397,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/doors.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/econom-bkf-48.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/econom-bkf-48.html"/>
@@ -1370,7 +1406,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/econom-bkf-48.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/econom-bkf-48.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/econom-bkf-48.html"/>
@@ -1379,7 +1415,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/econom-bkf-48.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/econom-bkf-48.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/econom-bkf-48.html"/>
@@ -1388,7 +1424,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/econom-bkf-48.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/engelberg-7000.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/engelberg-7000.html"/>
@@ -1397,7 +1433,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/engelberg-7000.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/engelberg-7000.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/engelberg-7000.html"/>
@@ -1406,7 +1442,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/engelberg-7000.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/engelberg-7000.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/engelberg-7000.html"/>
@@ -1415,7 +1451,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/engelberg-7000.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/engelberg-7600.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/engelberg-7600.html"/>
@@ -1424,7 +1460,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/engelberg-7600.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/engelberg-7600.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/engelberg-7600.html"/>
@@ -1433,7 +1469,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/engelberg-7600.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/engelberg-7600.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/engelberg-7600.html"/>
@@ -1442,7 +1478,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/engelberg-7600.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/engelberg-8000.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/engelberg-8000.html"/>
@@ -1451,7 +1487,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/engelberg-8000.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/engelberg-8000.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/engelberg-8000.html"/>
@@ -1460,7 +1496,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/engelberg-8000.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/engelberg-8000.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/engelberg-8000.html"/>
@@ -1469,7 +1505,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/engelberg-8000.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/environmental.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/environmental.html"/>
@@ -1478,7 +1514,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/environmental.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/environmental.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/environmental.html"/>
@@ -1487,7 +1523,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/environmental.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/environmental.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/environmental.html"/>
@@ -1496,7 +1532,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/environmental.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/esg-initiatives.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/esg-initiatives.html"/>
@@ -1505,7 +1541,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/esg-initiatives.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/esg-initiatives.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/esg-initiatives.html"/>
@@ -1514,7 +1550,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/esg-initiatives.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/esg-initiatives.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/esg-initiatives.html"/>
@@ -1523,7 +1559,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/esg-initiatives.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/esg-reports.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/esg-reports.html"/>
@@ -1532,7 +1568,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/esg-reports.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/esg-reports.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/esg-reports.html"/>
@@ -1541,7 +1577,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/esg-reports.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/esg-reports.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/esg-reports.html"/>
@@ -1550,7 +1586,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/esg-reports.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/esg_initiatives.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/esg_initiatives.html"/>
@@ -1559,7 +1595,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/esg_initiatives.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/esg_initiatives.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/esg_initiatives.html"/>
@@ -1568,7 +1604,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/esg_initiatives.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/esg_initiatives.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/esg_initiatives.html"/>
@@ -1577,7 +1613,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/esg_initiatives.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/esg_reports.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/esg_reports.html"/>
@@ -1586,7 +1622,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/esg_reports.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/esg_reports.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/esg_reports.html"/>
@@ -1595,7 +1631,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/esg_reports.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/esg_reports.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/esg_reports.html"/>
@@ -1604,7 +1640,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/esg_reports.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/facade-elements.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/facade-elements.html"/>
@@ -1613,7 +1649,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/facade-elements.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/facade-elements.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/facade-elements.html"/>
@@ -1622,7 +1658,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/facade-elements.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/facade-elements.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/facade-elements.html"/>
@@ -1631,7 +1667,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/facade-elements.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/facade_systems.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/facade_systems.html"/>
@@ -1640,7 +1676,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/facade_systems.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/facade_systems.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/facade_systems.html"/>
@@ -1649,7 +1685,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/facade_systems.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/facade_systems.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/facade_systems.html"/>
@@ -1658,7 +1694,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/facade_systems.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/factory.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/factory.html"/>
@@ -1667,7 +1703,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/factory.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/factory.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/factory.html"/>
@@ -1676,7 +1712,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/factory.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/factory.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/factory.html"/>
@@ -1685,7 +1721,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/factory.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/financier.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/financier.html"/>
@@ -1694,7 +1730,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/financier.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/financier.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/financier.html"/>
@@ -1703,7 +1739,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/financier.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/financier.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/financier.html"/>
@@ -1712,7 +1748,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/financier.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/french-balcony.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/french-balcony.html"/>
@@ -1721,7 +1757,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/french-balcony.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/french-balcony.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/french-balcony.html"/>
@@ -1730,7 +1766,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/french-balcony.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/french-balcony.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/french-balcony.html"/>
@@ -1739,7 +1775,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/french-balcony.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/glass-fences.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/glass-fences.html"/>
@@ -1748,7 +1784,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/glass-fences.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/glass-fences.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/glass-fences.html"/>
@@ -1757,7 +1793,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/glass-fences.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/glass-fences.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/glass-fences.html"/>
@@ -1766,7 +1802,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/glass-fences.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/global-presence.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/global-presence.html"/>
@@ -1775,7 +1811,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/global-presence.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/global-presence.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/global-presence.html"/>
@@ -1784,7 +1820,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/global-presence.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/global-presence.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/global-presence.html"/>
@@ -1793,7 +1829,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/global-presence.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/global_presence.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/global_presence.html"/>
@@ -1802,7 +1838,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/global_presence.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/global_presence.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/global_presence.html"/>
@@ -1811,7 +1847,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/global_presence.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/global_presence.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/global_presence.html"/>
@@ -1820,7 +1856,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/global_presence.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/governance.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/governance.html"/>
@@ -1829,7 +1865,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/governance.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/governance.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/governance.html"/>
@@ -1838,7 +1874,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/governance.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/governance.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/governance.html"/>
@@ -1847,7 +1883,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/governance.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/greenex.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/greenex.html"/>
@@ -1856,7 +1892,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/greenex.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/greenex.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/greenex.html"/>
@@ -1865,7 +1901,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/greenex.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/greenex.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/greenex.html"/>
@@ -1874,7 +1910,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/greenex.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/guillotine-systems.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/guillotine-systems.html"/>
@@ -1883,7 +1919,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/guillotine-systems.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/guillotine-systems.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/guillotine-systems.html"/>
@@ -1892,7 +1928,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/guillotine-systems.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/guillotine-systems.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/guillotine-systems.html"/>
@@ -1901,7 +1937,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/guillotine-systems.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/heating-solutions.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/heating-solutions.html"/>
@@ -1910,7 +1946,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/heating-solutions.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/heating-solutions.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/heating-solutions.html"/>
@@ -1919,7 +1955,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/heating-solutions.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/heating-solutions.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/heating-solutions.html"/>
@@ -1928,7 +1964,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/heating-solutions.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/histrory.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/histrory.html"/>
@@ -1937,7 +1973,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/histrory.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/histrory.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/histrory.html"/>
@@ -1946,7 +1982,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/histrory.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/histrory.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/histrory.html"/>
@@ -1955,7 +1991,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/histrory.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/index.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/index.html"/>
@@ -1964,7 +2000,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/index.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/index.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/index.html"/>
@@ -1973,7 +2009,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/index.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/index.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/index.html"/>
@@ -1982,7 +2018,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/index.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/innovation.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/innovation.html"/>
@@ -1991,7 +2027,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/innovation.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/innovation.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/innovation.html"/>
@@ -2000,7 +2036,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/innovation.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/innovation.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/innovation.html"/>
@@ -2009,7 +2045,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/innovation.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/international-offices.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/international-offices.html"/>
@@ -2018,7 +2054,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/international-offices.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/international-offices.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/international-offices.html"/>
@@ -2027,7 +2063,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/international-offices.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/international-offices.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/international-offices.html"/>
@@ -2036,7 +2072,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/international-offices.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/international_offices.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/international_offices.html"/>
@@ -2045,7 +2081,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/international_offices.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/international_offices.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/international_offices.html"/>
@@ -2054,7 +2090,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/international_offices.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/international_offices.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/international_offices.html"/>
@@ -2063,7 +2099,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/international_offices.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/investor_relations.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/investor_relations.html"/>
@@ -2072,7 +2108,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/investor_relations.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/investor_relations.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/investor_relations.html"/>
@@ -2081,7 +2117,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/investor_relations.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/investor_relations.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/investor_relations.html"/>
@@ -2090,7 +2126,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/investor_relations.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/investors.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/investors.html"/>
@@ -2099,7 +2135,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/investors.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/investors.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/investors.html"/>
@@ -2108,7 +2144,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/investors.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/investors.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/investors.html"/>
@@ -2117,7 +2153,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/investors.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/ismail_israilov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/ismail_israilov.html"/>
@@ -2126,7 +2162,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/ismail_israilov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/ismail_israilov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/ismail_israilov.html"/>
@@ -2135,7 +2171,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/ismail_israilov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/ismail_israilov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/ismail_israilov.html"/>
@@ -2144,7 +2180,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/ismail_israilov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/jakhongir_artikkhodjaev.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/jakhongir_artikkhodjaev.html"/>
@@ -2153,7 +2189,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/jakhongir_artikkhodjaev.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/jakhongir_artikkhodjaev.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/jakhongir_artikkhodjaev.html"/>
@@ -2162,7 +2198,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/jakhongir_artikkhodjaev.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/jakhongir_artikkhodjaev.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/jakhongir_artikkhodjaev.html"/>
@@ -2171,7 +2207,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/jakhongir_artikkhodjaev.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/kvn.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/kvn.html"/>
@@ -2180,7 +2216,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/kvn.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/kvn.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/kvn.html"/>
@@ -2189,7 +2225,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/kvn.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/kvn.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/kvn.html"/>
@@ -2198,7 +2234,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/kvn.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/liderline.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/liderline.html"/>
@@ -2207,7 +2243,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/liderline.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/liderline.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/liderline.html"/>
@@ -2216,7 +2252,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/liderline.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/liderline.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/liderline.html"/>
@@ -2225,7 +2261,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/liderline.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/marketer.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/marketer.html"/>
@@ -2234,7 +2270,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/marketer.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/marketer.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/marketer.html"/>
@@ -2243,7 +2279,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/marketer.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/marketer.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/marketer.html"/>
@@ -2252,7 +2288,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/marketer.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/marketing_department.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/marketing_department.html"/>
@@ -2261,7 +2297,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/marketing_department.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/marketing_department.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/marketing_department.html"/>
@@ -2270,7 +2306,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/marketing_department.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/marketing_department.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/marketing_department.html"/>
@@ -2279,7 +2315,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/marketing_department.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/marketing_vacancy1.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/marketing_vacancy1.html"/>
@@ -2288,7 +2324,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/marketing_vacancy1.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/marketing_vacancy1.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/marketing_vacancy1.html"/>
@@ -2297,7 +2333,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/marketing_vacancy1.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/marketing_vacancy1.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/marketing_vacancy1.html"/>
@@ -2306,7 +2342,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/marketing_vacancy1.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/marquises.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/marquises.html"/>
@@ -2315,7 +2351,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/marquises.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/marquises.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/marquises.html"/>
@@ -2324,7 +2360,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/marquises.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/marquises.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/marquises.html"/>
@@ -2333,7 +2369,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/marquises.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/material-facts.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/material-facts.html"/>
@@ -2342,7 +2378,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/material-facts.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/material-facts.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/material-facts.html"/>
@@ -2351,7 +2387,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/material-facts.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/material-facts.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/material-facts.html"/>
@@ -2360,7 +2396,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/material-facts.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/material_facts.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/material_facts.html"/>
@@ -2369,7 +2405,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/material_facts.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/material_facts.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/material_facts.html"/>
@@ -2378,7 +2414,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/material_facts.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/material_facts.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/material_facts.html"/>
@@ -2387,7 +2423,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/material_facts.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/mdf40.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/mdf40.html"/>
@@ -2396,7 +2432,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/mdf40.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/mdf40.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/mdf40.html"/>
@@ -2405,7 +2441,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/mdf40.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/mdf40.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/mdf40.html"/>
@@ -2414,7 +2450,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/mdf40.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/media_gallery.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/media_gallery.html"/>
@@ -2423,7 +2459,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/media_gallery.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/media_gallery.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/media_gallery.html"/>
@@ -2432,7 +2468,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/media_gallery.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/media_gallery.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/media_gallery.html"/>
@@ -2441,7 +2477,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/media_gallery.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/monza.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/monza.html"/>
@@ -2450,7 +2486,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/monza.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/monza.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/monza.html"/>
@@ -2459,7 +2495,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/monza.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/monza.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/monza.html"/>
@@ -2468,7 +2504,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/monza.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/news-08052026.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/news-08052026.html"/>
@@ -2477,7 +2513,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/news-08052026.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/news-08052026.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/news-08052026.html"/>
@@ -2486,7 +2522,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/news-08052026.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/news-08052026.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/news-08052026.html"/>
@@ -2495,7 +2531,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/news-08052026.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/news-11022026.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/news-11022026.html"/>
@@ -2504,7 +2540,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/news-11022026.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/news-11022026.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/news-11022026.html"/>
@@ -2513,7 +2549,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/news-11022026.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/news-11022026.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/news-11022026.html"/>
@@ -2522,7 +2558,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/news-11022026.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/news-14012026.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/news-14012026.html"/>
@@ -2531,7 +2567,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/news-14012026.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/news-14012026.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/news-14012026.html"/>
@@ -2540,7 +2576,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/news-14012026.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/news-14012026.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/news-14012026.html"/>
@@ -2549,7 +2585,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/news-14012026.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/news.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/news.html"/>
@@ -2558,7 +2594,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/news.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/news.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/news.html"/>
@@ -2567,7 +2603,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/news.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/news.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/news.html"/>
@@ -2576,7 +2612,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/news.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/office.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/office.html"/>
@@ -2585,7 +2621,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/office.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/office.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/office.html"/>
@@ -2594,7 +2630,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/office.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/office.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/office.html"/>
@@ -2603,7 +2639,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/office.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/office_partitions.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/office_partitions.html"/>
@@ -2612,7 +2648,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/office_partitions.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/office_partitions.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/office_partitions.html"/>
@@ -2621,7 +2657,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/office_partitions.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/office_partitions.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/office_partitions.html"/>
@@ -2630,7 +2666,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/office_partitions.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/panels.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/panels.html"/>
@@ -2639,7 +2675,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/panels.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/panels.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/panels.html"/>
@@ -2648,7 +2684,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/panels.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/panels.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/panels.html"/>
@@ -2657,7 +2693,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/panels.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/pergolas.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/pergolas.html"/>
@@ -2666,7 +2702,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/pergolas.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/pergolas.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/pergolas.html"/>
@@ -2675,7 +2711,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/pergolas.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/pergolas.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/pergolas.html"/>
@@ -2684,7 +2720,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/pergolas.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/premium-bkf-50.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/premium-bkf-50.html"/>
@@ -2693,7 +2729,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/premium-bkf-50.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/premium-bkf-50.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/premium-bkf-50.html"/>
@@ -2702,7 +2738,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/premium-bkf-50.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/premium-bkf-50.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/premium-bkf-50.html"/>
@@ -2711,7 +2747,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/premium-bkf-50.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/premium_plastic_windows.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/premium_plastic_windows.html"/>
@@ -2720,7 +2756,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/premium_plastic_windows.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/premium_plastic_windows.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/premium_plastic_windows.html"/>
@@ -2729,7 +2765,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/premium_plastic_windows.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/premium_plastic_windows.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/premium_plastic_windows.html"/>
@@ -2738,7 +2774,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/premium_plastic_windows.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/products.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/products.html"/>
@@ -2747,7 +2783,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/products.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/products.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/products.html"/>
@@ -2756,7 +2792,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/products.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/products.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/products.html"/>
@@ -2765,7 +2801,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/products.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/quattro-5200.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/quattro-5200.html"/>
@@ -2774,7 +2810,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/quattro-5200.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/quattro-5200.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/quattro-5200.html"/>
@@ -2783,7 +2819,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/quattro-5200.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/quattro-5200.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/quattro-5200.html"/>
@@ -2792,7 +2828,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/quattro-5200.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/quattro-5800.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/quattro-5800.html"/>
@@ -2801,7 +2837,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/quattro-5800.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/quattro-5800.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/quattro-5800.html"/>
@@ -2810,7 +2846,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/quattro-5800.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/quattro-5800.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/quattro-5800.html"/>
@@ -2819,7 +2855,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/quattro-5800.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/quattro-6000.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/quattro-6000.html"/>
@@ -2828,7 +2864,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/quattro-6000.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/quattro-6000.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/quattro-6000.html"/>
@@ -2837,7 +2873,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/quattro-6000.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/quattro-6000.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/quattro-6000.html"/>
@@ -2846,7 +2882,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/quattro-6000.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/rano_yuldosheva.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/rano_yuldosheva.html"/>
@@ -2855,7 +2891,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/rano_yuldosheva.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/rano_yuldosheva.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/rano_yuldosheva.html"/>
@@ -2864,7 +2900,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/rano_yuldosheva.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/rano_yuldosheva.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/rano_yuldosheva.html"/>
@@ -2873,7 +2909,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/rano_yuldosheva.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/reports.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/reports.html"/>
@@ -2882,7 +2918,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/reports.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/reports.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/reports.html"/>
@@ -2891,7 +2927,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/reports.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/reports.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/reports.html"/>
@@ -2900,7 +2936,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/reports.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/residence.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/residence.html"/>
@@ -2909,7 +2945,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/residence.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/residence.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/residence.html"/>
@@ -2918,7 +2954,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/residence.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/residence.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/residence.html"/>
@@ -2927,7 +2963,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/residence.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/roller-shutter.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/roller-shutter.html"/>
@@ -2936,7 +2972,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/roller-shutter.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/roller-shutter.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/roller-shutter.html"/>
@@ -2945,7 +2981,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/roller-shutter.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/roller-shutter.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/roller-shutter.html"/>
@@ -2954,7 +2990,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/roller-shutter.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/said_nasretdinov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/said_nasretdinov.html"/>
@@ -2963,7 +2999,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/said_nasretdinov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/said_nasretdinov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/said_nasretdinov.html"/>
@@ -2972,7 +3008,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/said_nasretdinov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/said_nasretdinov.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/said_nasretdinov.html"/>
@@ -2981,7 +3017,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/said_nasretdinov.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/sales-specialist.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sales-specialist.html"/>
@@ -2990,7 +3026,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sales-specialist.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/sales-specialist.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sales-specialist.html"/>
@@ -2999,7 +3035,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sales-specialist.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/sales-specialist.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sales-specialist.html"/>
@@ -3008,7 +3044,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sales-specialist.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/sectional-door.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sectional-door.html"/>
@@ -3017,7 +3053,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sectional-door.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/sectional-door.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sectional-door.html"/>
@@ -3026,7 +3062,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sectional-door.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/sectional-door.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sectional-door.html"/>
@@ -3035,7 +3071,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sectional-door.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/sirojiddin_khayrullaev.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sirojiddin_khayrullaev.html"/>
@@ -3044,7 +3080,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sirojiddin_khayrullaev.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/sirojiddin_khayrullaev.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sirojiddin_khayrullaev.html"/>
@@ -3053,7 +3089,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sirojiddin_khayrullaev.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/sirojiddin_khayrullaev.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sirojiddin_khayrullaev.html"/>
@@ -3062,7 +3098,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sirojiddin_khayrullaev.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/sliding_systems.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sliding_systems.html"/>
@@ -3071,7 +3107,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sliding_systems.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/sliding_systems.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sliding_systems.html"/>
@@ -3080,7 +3116,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sliding_systems.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/sliding_systems.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sliding_systems.html"/>
@@ -3089,7 +3125,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sliding_systems.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/solar_panels.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/solar_panels.html"/>
@@ -3098,7 +3134,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/solar_panels.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/solar_panels.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/solar_panels.html"/>
@@ -3107,7 +3143,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/solar_panels.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/solar_panels.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/solar_panels.html"/>
@@ -3116,7 +3152,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/solar_panels.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/solutions_convenience.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/solutions_convenience.html"/>
@@ -3125,7 +3161,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/solutions_convenience.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/solutions_convenience.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/solutions_convenience.html"/>
@@ -3134,7 +3170,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/solutions_convenience.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/solutions_convenience.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/solutions_convenience.html"/>
@@ -3143,7 +3179,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/solutions_convenience.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/sun-protection-system.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sun-protection-system.html"/>
@@ -3152,7 +3188,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sun-protection-system.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/sun-protection-system.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sun-protection-system.html"/>
@@ -3161,7 +3197,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sun-protection-system.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/sun-protection-system.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sun-protection-system.html"/>
@@ -3170,7 +3206,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sun-protection-system.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/sustainability-strategy.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sustainability-strategy.html"/>
@@ -3179,7 +3215,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sustainability-strategy.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/sustainability-strategy.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sustainability-strategy.html"/>
@@ -3188,7 +3224,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sustainability-strategy.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/sustainability-strategy.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sustainability-strategy.html"/>
@@ -3197,7 +3233,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sustainability-strategy.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/sustainability.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sustainability.html"/>
@@ -3206,7 +3242,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sustainability.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/sustainability.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sustainability.html"/>
@@ -3215,7 +3251,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sustainability.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/sustainability.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sustainability.html"/>
@@ -3224,7 +3260,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sustainability.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/sustainability_strategy.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sustainability_strategy.html"/>
@@ -3233,7 +3269,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sustainability_strategy.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/sustainability_strategy.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sustainability_strategy.html"/>
@@ -3242,7 +3278,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sustainability_strategy.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/sustainability_strategy.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/sustainability_strategy.html"/>
@@ -3251,7 +3287,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/sustainability_strategy.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/system-spider.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/system-spider.html"/>
@@ -3260,7 +3296,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/system-spider.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/system-spider.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/system-spider.html"/>
@@ -3269,7 +3305,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/system-spider.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/system-spider.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/system-spider.html"/>
@@ -3278,7 +3314,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/system-spider.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/thermo-65.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/thermo-65.html"/>
@@ -3287,7 +3323,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/thermo-65.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/thermo-65.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/thermo-65.html"/>
@@ -3296,7 +3332,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/thermo-65.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/thermo-65.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/thermo-65.html"/>
@@ -3305,7 +3341,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/thermo-65.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/translucent-structures.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/translucent-structures.html"/>
@@ -3314,7 +3350,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/translucent-structures.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/translucent-structures.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/translucent-structures.html"/>
@@ -3323,7 +3359,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/translucent-structures.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/translucent-structures.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/translucent-structures.html"/>
@@ -3332,7 +3368,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/translucent-structures.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/trio-5800.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/trio-5800.html"/>
@@ -3341,7 +3377,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/trio-5800.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/trio-5800.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/trio-5800.html"/>
@@ -3350,7 +3386,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/trio-5800.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/trio-5800.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/trio-5800.html"/>
@@ -3359,7 +3395,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/trio-5800.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/trio-6000.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/trio-6000.html"/>
@@ -3368,7 +3404,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/trio-6000.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/trio-6000.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/trio-6000.html"/>
@@ -3377,7 +3413,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/trio-6000.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/trio-6000.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/trio-6000.html"/>
@@ -3386,7 +3422,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/trio-6000.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/values_mission.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/values_mission.html"/>
@@ -3395,7 +3431,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/values_mission.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/values_mission.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/values_mission.html"/>
@@ -3404,7 +3440,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/values_mission.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/values_mission.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/values_mission.html"/>
@@ -3413,7 +3449,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/values_mission.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/verandas.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/verandas.html"/>
@@ -3422,7 +3458,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/verandas.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/verandas.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/verandas.html"/>
@@ -3431,7 +3467,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/verandas.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/verandas.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/verandas.html"/>
@@ -3440,7 +3476,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/verandas.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/ru/ywd78thermo.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/ywd78thermo.html"/>
@@ -3449,7 +3485,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/ywd78thermo.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/tj/ywd78thermo.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/ywd78thermo.html"/>
@@ -3458,7 +3494,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://akfa-group.tj/ru/ywd78thermo.html"/>
   </url>  <url>
     <loc>https://akfa-group.tj/en/ywd78thermo.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://akfa-group.tj/ru/ywd78thermo.html"/>
