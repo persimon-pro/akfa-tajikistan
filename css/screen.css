@@ -3707,18 +3707,19 @@ table td {
    AKFA TAJIKISTAN — MOBILE UX, CONVERSION & STRICT VIEWPORT FIT
    ========================================================================== */
 
-/* Global horizontal overflow lock so screen is NEVER wider than device viewport */
-html, body {
-    overflow-x: hidden !important;
-    max-width: 100vw !important;
-    width: 100% !important;
+/* Prevent horizontal scrollbar without breaking window scroll or height: 100% */
+body {
+    overflow-x: clip;
 }
 
-.wrapper, .page, .section, .section__in, .section__content {
-    display: block !important;
-    width: 100% !important;
-    max-width: 100vw !important;
-    box-sizing: border-box !important;
+/* Ensure scroll-triggered animation blocks are ALWAYS visible and never stuck at opacity: 0 */
+.invisible,
+.first-animation,
+.second-animation,
+.third-animation,
+.fourth-animation {
+    opacity: 1 !important;
+    visibility: visible !important;
 }
 
 /* Hero CTA Group (Desktop & Mobile) */

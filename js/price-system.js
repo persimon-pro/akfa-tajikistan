@@ -28,14 +28,13 @@
   function isMobileDevice() {
     return (
       window.innerWidth <= 991 ||
-      (window.screen && window.screen.width <= 991) ||
       (window.matchMedia && window.matchMedia("(max-width: 991px)").matches) ||
       /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent || "")
     );
   }
 
   const state = {
-    viewMode: isMobileDevice() ? "wizard" : "table", // "wizard" | "table"
+    viewMode: "wizard",         // "wizard" | "table" (resolved in parseUrlParams)
     wizardStep: 1,              // 1: Series, 2: Finish/Color, 3: Items, 4: Checkout & WhatsApp
     wizardCoatingKey: "white",  // Chosen coating in Step 2
     wizardCategoryTab: "profile", // "profile" | "accessory" in Step 3
@@ -125,9 +124,7 @@
 
   function parseUrlParams() {
     try {
-      if (isMobileDevice()) {
-        state.viewMode = "wizard";
-      }
+      state.viewMode = isMobileDevice() ? "wizard" : "table";
       const params = new URLSearchParams(window.location.search);
       const modeParam = params.get("mode");
       if (modeParam === "wizard" || modeParam === "table") {
