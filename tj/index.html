@@ -81,10 +81,10 @@
     <link rel="stylesheet" href="../css/fonts.css" media="all"/>
     <link rel="stylesheet" href="../css/animate.css" media="all"/>
     <link rel="stylesheet" href="../css/bootstrap.css" media="all"/>
-    <link rel="stylesheet" href="../css/main.css" media="all"/>
+    <link rel="stylesheet" href="../css/main.css?v=20261026-3" media="all"/>
     <link rel="stylesheet" href="../css/jquery.fancybox.css" media="all"/>
     <link rel="stylesheet" href="../css/swiper.min.css" media="all"/>
-    <link rel="stylesheet" href="../css/screen.css" media="all"/>
+    <link rel="stylesheet" href="../css/screen.css?v=20261026-3" media="all"/>
 
     <style>
     @media only screen and (min-width: 1200px) {
@@ -436,10 +436,10 @@
                         <h1 class="promo__title" >Пешвои саноати истеҳсолӣ — Намояндагӣ дар Тоҷикистон</h1>
                         <div class="promo-cta-group">
                             <a href="price.html" class="btn-sm-size promo-cta-primary" style="display: inline-flex;">
-                                <span>Нархнома ва фармоиши онлайн</span>
+                                <span>Нархнома ва ҳисобкунаки фармоиш</span>
                             </a>
-                            <a href="products.html" class="btn-sm-size" style="display: inline-flex;">
-                                <span>Маҳсулот ва роҳҳои ҳал</span>
+                            <a href="#interactive-price-cta" class="btn-sm-size promo-cta-whatsapp" style="display: inline-flex;">
+                                <span>Фармоиши фаврӣ дар WhatsApp</span>
                             </a>
                         </div>
                     </div>
@@ -451,59 +451,88 @@
         <!-- page Start -->
         <div class="page">
             <!-- Interactive Price List & WhatsApp Order System Section (Top of Body) -->
-            <section class="section" id="interactive-price-cta" style="background: #252525; padding: 70px 0; border-top: 1px solid #383838; border-bottom: 1px solid #383838; position: relative;">
+            <section class="section" id="interactive-price-cta" style="background: #252525; padding: 65px 0; border-top: 1px solid #383838; border-bottom: 1px solid #383838; position: relative;">
                 <div class="container">
                     <div class="section__in">
                         <div class="section__content" style="padding: 0;">
-                            <div style="display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; margin-bottom: 36px; gap: 24px;">
-                                <div style="flex: 1 1 620px;">
-                                    <h2 class="sm-gl-title" style="margin: 0 0 15px;">
-                                        <small style="position: relative; top: auto; left: auto; margin: 0; text-transform: none; display: inline-block;">Нархнома ва дархости онлайн</small>
+                            <div style="display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; margin-bottom: 26px; gap: 20px;">
+                                <div style="flex: 1 1 280px; min-width: 0; max-width: 100%;">
+                                    <h2 class="sm-gl-title" style="margin: 0 0 12px;">
+                                        <small style="position: relative; top: auto; left: auto; margin: 0; text-transform: none; display: inline-block;">Нархнома ва қабули фармоиш</small>
                                     </h2>
-                                    <span class="gl-title" style="margin: 0 0 16px;">
-                                        Нархномаи интерактивии AKFA Aluminium дар Тоҷикистон
+                                    <span class="gl-title" style="margin: 0 0 12px;">
+                                        Фармоишро онлайн ҳисоб кунед ё дархости фаврӣ гузоред
                                     </span>
-                                    <p style="color: #b5b5b5; font-size: 15px; line-height: 25px; margin: 0; font-weight: 400; max-width: 820px;">
-                                        Нархҳои расмӣ барои ҳамаи 6 силсилаи профилҳо ва 314 номгӯи қисмҳои эҳтиётӣ (Сафед, Ранга, Ламинатсия, Анодировка, Вакуум 3D). Фармоишро қадам ба қадам аз телефон ҷамъ кунед ва мустақиман ба WhatsApp фиристед.
+                                    <p style="color: #b5b5b5; font-size: 14.5px; line-height: 23px; margin: 0; font-weight: 400; max-width: 820px;">
+                                        Силсилаи профилро дар нархномаи интерактивӣ интихоб кунед (314 номгӯй бо нархҳо) ё дархости худро мустақиман ба намояндагӣ дар Душанбе тавассути WhatsApp фиристед.
                                     </p>
                                 </div>
-                                <div style="flex: 0 0 auto; margin-bottom: 5px;">
+                                <div style="flex: 0 0 auto; max-width: 100%;">
                                     <a href="price.html" class="btn-sm-size promo-cta-primary" style="display: inline-flex;">
-                                        <span>Кушодани нархнома</span>
+                                        <span>Кушодани нархномаи пурра</span>
                                     </a>
                                 </div>
                             </div>
 
-                            <div class="price-series-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(175px, 1fr)); gap: 14px;">
-                                <a href="price.html?system=ALDOX-45" class="price-series-card" style="display: block; background: #313131; border: 1px solid #3e3e3e; padding: 18px 16px; text-decoration: none; transition: border-color 0.25s ease;">
-                                    <div style="color: #e54b4b; font-size: 11px; font-weight: 700; letter-spacing: 0.8px;">Силсилаи сард</div>
-                                    <div style="color: #fff; font-size: 16px; font-weight: 700; margin: 5px 0 4px; font-family: 'Montserrat', sans-serif;">ALDOX — 45</div>
-                                    <div style="color: #a0a0a0; font-size: 12px;">49 мавқеъ · аз $1.47/дона</div>
+                            <!-- Express Order Form (15-second lead capture) -->
+                            <div class="quick-order-box" id="quick-order-box">
+                                <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+                                    <div style="color: #ffffff; font-size: 15px; font-weight: 700; font-family: 'Montserrat', sans-serif;">
+                                        Дархости фаврӣ ба менеҷер дар WhatsApp (дар 15 сония):
+                                    </div>
+                                    <a href="tel:+992111124742" style="color: #e54b4b; font-size: 13px; font-weight: 700; text-decoration: none;">
+                                        Тел.: +992 11 112 47 42
+                                    </a>
+                                </div>
+                                <div class="quick-order-chips" id="quickOrderChips">
+                                    <button type="button" class="quick-order-chip active" onclick="selectQuickTopic(this, 'Профил ва қисмҳои эҳтиётӣ (оптом)')">Профил оптом</button>
+                                    <button type="button" class="quick-order-chip" onclick="selectQuickTopic(this, 'Дару тирезаҳои тайёр')">Дару тиреза</button>
+                                    <button type="button" class="quick-order-chip" onclick="selectQuickTopic(this, 'Системаҳои фасадӣ')">Фасадҳо</button>
+                                    <button type="button" class="quick-order-chip" onclick="selectQuickTopic(this, 'Машварат ва ҳисобкунӣ')">Ҳисобкунӣ</button>
+                                </div>
+                                <div class="quick-order-inputs">
+                                    <input type="text" id="quickClientContact" class="quick-order-input" placeholder="Ном ё рақами телефони шумо">
+                                    <input type="text" id="quickClientComment" class="quick-order-input" placeholder="Чӣ лозим аст? (масалан: Чемпион сафед 50 дона)">
+                                    <button type="button" class="quick-order-submit" onclick="sendQuickOrderWhatsApp('tj')">
+                                        <span>Фиристодани фармоиш ба WhatsApp →</span>
+                                    </button>
+                                </div>
+                            </div>
+
+                            <div style="color: #d5d5d5; font-size: 13px; font-weight: 600; margin: 0 0 10px; font-family: 'Montserrat', sans-serif;">
+                                Ё силсиларо барои ҳисобкунии дақиқ аз рӯи нархнома интихоб кунед:
+                            </div>
+
+                            <div class="price-series-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(165px, 1fr)); gap: 12px;">
+                                <a href="price.html?system=ALDOX-45" class="price-series-card" style="display: block; background: #313131; border: 1px solid #3e3e3e; padding: 15px 14px; text-decoration: none; transition: border-color 0.25s ease;">
+                                    <div style="color: #e54b4b; font-size: 10.5px; font-weight: 700; letter-spacing: 0.6px;">Силсилаи сард</div>
+                                    <div style="color: #fff; font-size: 15px; font-weight: 700; margin: 4px 0 3px; font-family: 'Montserrat', sans-serif;">ALDOX — 45</div>
+                                    <div style="color: #a0a0a0; font-size: 11.5px;">49 мавқеъ · аз $1.47/дона →</div>
                                 </a>
-                                <a href="price.html?system=CHAMPION-47" class="price-series-card" style="display: block; background: #313131; border: 1px solid #3e3e3e; padding: 18px 16px; text-decoration: none; transition: border-color 0.25s ease;">
-                                    <div style="color: #e54b4b; font-size: 11px; font-weight: 700; letter-spacing: 0.8px;">Дару тиреза</div>
-                                    <div style="color: #fff; font-size: 16px; font-weight: 700; margin: 5px 0 4px; font-family: 'Montserrat', sans-serif;">CHAMPION — 47</div>
-                                    <div style="color: #a0a0a0; font-size: 12px;">66 мавқеъ · 6,0 м</div>
+                                <a href="price.html?system=CHAMPION-47" class="price-series-card" style="display: block; background: #313131; border: 1px solid #3e3e3e; padding: 15px 14px; text-decoration: none; transition: border-color 0.25s ease;">
+                                    <div style="color: #e54b4b; font-size: 10.5px; font-weight: 700; letter-spacing: 0.6px;">Дару тиреза</div>
+                                    <div style="color: #fff; font-size: 15px; font-weight: 700; margin: 4px 0 3px; font-family: 'Montserrat', sans-serif;">CHAMPION — 47</div>
+                                    <div style="color: #a0a0a0; font-size: 11.5px;">66 мавқеъ · 6,0 м →</div>
                                 </a>
-                                <a href="price.html?system=BKF-48" class="price-series-card" style="display: block; background: #313131; border: 1px solid #3e3e3e; padding: 18px 16px; text-decoration: none; transition: border-color 0.25s ease;">
-                                    <div style="color: #e54b4b; font-size: 11px; font-weight: 700; letter-spacing: 0.8px;">Системаи фасадӣ</div>
-                                    <div style="color: #fff; font-size: 16px; font-weight: 700; margin: 5px 0 4px; font-family: 'Montserrat', sans-serif;">BKF — 48</div>
-                                    <div style="color: #a0a0a0; font-size: 12px;">56 мавқеъ · 6,0 / 6,5 м</div>
+                                <a href="price.html?system=BKF-48" class="price-series-card" style="display: block; background: #313131; border: 1px solid #3e3e3e; padding: 15px 14px; text-decoration: none; transition: border-color 0.25s ease;">
+                                    <div style="color: #e54b4b; font-size: 10.5px; font-weight: 700; letter-spacing: 0.6px;">Системаи фасадӣ</div>
+                                    <div style="color: #fff; font-size: 15px; font-weight: 700; margin: 4px 0 3px; font-family: 'Montserrat', sans-serif;">BKF — 48</div>
+                                    <div style="color: #a0a0a0; font-size: 11.5px;">56 мавқеъ · 6,0 / 6,5 м →</div>
                                 </a>
-                                <a href="price.html?system=THERMO-57" class="price-series-card" style="display: block; background: #313131; border: 1px solid #3e3e3e; padding: 18px 16px; text-decoration: none; transition: border-color 0.25s ease;">
-                                    <div style="color: #e54b4b; font-size: 11px; font-weight: 700; letter-spacing: 0.8px;">Силсилаи гарм</div>
-                                    <div style="color: #fff; font-size: 16px; font-weight: 700; margin: 5px 0 4px; font-family: 'Montserrat', sans-serif;">THERMO — 57</div>
-                                    <div style="color: #a0a0a0; font-size: 12px;">49 мавқеъ · 6,0 / 6,5 м</div>
+                                <a href="price.html?system=THERMO-57" class="price-series-card" style="display: block; background: #313131; border: 1px solid #3e3e3e; padding: 15px 14px; text-decoration: none; transition: border-color 0.25s ease;">
+                                    <div style="color: #e54b4b; font-size: 10.5px; font-weight: 700; letter-spacing: 0.6px;">Силсилаи гарм</div>
+                                    <div style="color: #fff; font-size: 15px; font-weight: 700; margin: 4px 0 3px; font-family: 'Montserrat', sans-serif;">THERMO — 57</div>
+                                    <div style="color: #a0a0a0; font-size: 11.5px;">49 мавқеъ · 6,0 / 6,5 м →</div>
                                 </a>
-                                <a href="price.html?system=THERMO-65" class="price-series-card" style="display: block; background: #313131; border: 1px solid #3e3e3e; padding: 18px 16px; text-decoration: none; transition: border-color 0.25s ease;">
-                                    <div style="color: #e54b4b; font-size: 11px; font-weight: 700; letter-spacing: 0.8px;">Силсилаи гарм</div>
-                                    <div style="color: #fff; font-size: 16px; font-weight: 700; margin: 5px 0 4px; font-family: 'Montserrat', sans-serif;">THERMO — 65</div>
-                                    <div style="color: #a0a0a0; font-size: 12px;">50 мавқеъ · 6,5 м</div>
+                                <a href="price.html?system=THERMO-65" class="price-series-card" style="display: block; background: #313131; border: 1px solid #3e3e3e; padding: 15px 14px; text-decoration: none; transition: border-color 0.25s ease;">
+                                    <div style="color: #e54b4b; font-size: 10.5px; font-weight: 700; letter-spacing: 0.6px;">Силсилаи гарм</div>
+                                    <div style="color: #fff; font-size: 15px; font-weight: 700; margin: 4px 0 3px; font-family: 'Montserrat', sans-serif;">THERMO — 65</div>
+                                    <div style="color: #a0a0a0; font-size: 11.5px;">50 мавқеъ · 6,5 м →</div>
                                 </a>
-                                <a href="price.html?system=THERMO-78" class="price-series-card" style="display: block; background: #313131; border: 1px solid #3e3e3e; padding: 18px 16px; text-decoration: none; transition: border-color 0.25s ease;">
-                                    <div style="color: #e54b4b; font-size: 11px; font-weight: 700; letter-spacing: 0.8px;">Премиум термо</div>
-                                    <div style="color: #fff; font-size: 16px; font-weight: 700; margin: 5px 0 4px; font-family: 'Montserrat', sans-serif;">THERMO — 78</div>
-                                    <div style="color: #a0a0a0; font-size: 12px;">44 мавқеъ · 6,5 м</div>
+                                <a href="price.html?system=THERMO-78" class="price-series-card" style="display: block; background: #313131; border: 1px solid #3e3e3e; padding: 15px 14px; text-decoration: none; transition: border-color 0.25s ease;">
+                                    <div style="color: #e54b4b; font-size: 10.5px; font-weight: 700; letter-spacing: 0.6px;">Премиум термо</div>
+                                    <div style="color: #fff; font-size: 15px; font-weight: 700; margin: 4px 0 3px; font-family: 'Montserrat', sans-serif;">THERMO — 78</div>
+                                    <div style="color: #a0a0a0; font-size: 11.5px;">44 мавқеъ · 6,5 м →</div>
                                 </a>
                             </div>
                         </div>
@@ -606,8 +635,8 @@
                 <div class="container">
                     <div class="section__in">
                         <div class="section__content" style="padding: 0;">
-                            <div style="display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; margin-bottom: 45px; gap: 24px;">
-                                <div style="flex: 1 1 650px;">
+                            <div style="display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; margin-bottom: 35px; gap: 20px;">
+                                <div style="flex: 1 1 280px; min-width: 0; max-width: 100%;">
                                     <h2 class="sm-gl-title" style="margin: 0 0 15px;">
                                         <small style="position: relative; top: auto; left: auto; margin: 0; text-transform: none; display: inline-block;">Ба зудӣ ифтитоҳ меёбад</small>
                                     </h2>
@@ -1024,6 +1053,16 @@
     </div>   
     <!-- wrapper end -->
 
+    <!-- Sticky Mobile Bottom Order Bar -->
+    <div class="mobile-sticky-cta" role="region" aria-label="Фармоиши фаврӣ">
+        <a href="price.html" class="mobile-sticky-cta__btn mobile-sticky-cta__btn--price">
+            <span>Нархнома</span>
+        </a>
+        <a href="#quick-order-box" class="mobile-sticky-cta__btn mobile-sticky-cta__btn--wa">
+            <span>Фармоиш дар WhatsApp</span>
+        </a>
+    </div>
+
     <!-- to-top Start -->
     <div class="to-top"></div>
     <!-- to-top end -->
@@ -1042,7 +1081,28 @@
 
     <!-- Scripts  -->
     <script type="text/javascript" src="../js/scripts.js"></script>
-    <!-- Video promo loop enabled natively -->
+    <script type="text/javascript">
+        window.__quickOrderTopic = 'Профил ва қисмҳои эҳтиётӣ (оптом)';
+        function selectQuickTopic(btn, topic) {
+            window.__quickOrderTopic = topic;
+            var chips = document.querySelectorAll('#quickOrderChips .quick-order-chip');
+            for (var i = 0; i < chips.length; i++) chips[i].classList.remove('active');
+            btn.classList.add('active');
+        }
+        function sendQuickOrderWhatsApp(lang) {
+            var contact = (document.getElementById('quickClientContact') || {}).value || '';
+            var comment = (document.getElementById('quickClientComment') || {}).value || '';
+            var topic = window.__quickOrderTopic || 'Дархост аз сайт';
+            var lines = [
+                'Ассалому алайкум! Дархост аз сайти akfa-group.tj:',
+                '• Самт: ' + topic
+            ];
+            if (contact.trim()) lines.push('• Мизоҷ / тел.: ' + contact.trim());
+            if (comment.trim()) lines.push('• Фармоиш / шарҳ: ' + comment.trim());
+            var url = 'https://wa.me/992111124742?text=' + encodeURIComponent(lines.join('\n'));
+            window.open(url, '_blank');
+        }
+    </script>
 
 </body>
 
