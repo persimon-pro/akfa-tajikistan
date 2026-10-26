@@ -25,8 +25,17 @@
     vacuum_65: { key: "vacuum_65", label: "Вакуум (хлыст 6,5 м)",    short: "Вакуум 6,5м",  swatch: "#92400e" }
   };
 
+  function isMobileDevice() {
+    return (
+      window.innerWidth <= 991 ||
+      (window.screen && window.screen.width <= 991) ||
+      (window.matchMedia && window.matchMedia("(max-width: 991px)").matches) ||
+      /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent || "")
+    );
+  }
+
   const state = {
-    viewMode: window.innerWidth <= 860 ? "wizard" : "table", // "wizard" | "table"
+    viewMode: isMobileDevice() ? "wizard" : "table", // "wizard" | "table"
     wizardStep: 1,              // 1: Series, 2: Finish/Color, 3: Items, 4: Checkout & WhatsApp
     wizardCoatingKey: "white",  // Chosen coating in Step 2
     wizardCategoryTab: "profile", // "profile" | "accessory" in Step 3
@@ -116,7 +125,14 @@
 
   function parseUrlParams() {
     try {
+      if (isMobileDevice()) {
+        state.viewMode = "wizard";
+      }
       const params = new URLSearchParams(window.location.search);
+      const modeParam = params.get("mode");
+      if (modeParam === "wizard" || modeParam === "table") {
+        state.viewMode = isMobileDevice() ? "wizard" : modeParam;
+      }
       const sysParam = params.get("system");
       if (sysParam) {
         const normalized = sysParam.toUpperCase().trim();
@@ -129,10 +145,6 @@
         } else if (normalized === "ALL") {
           state.activeSystemId = "ALL";
         }
-      }
-      const modeParam = params.get("mode");
-      if (modeParam === "wizard" || modeParam === "table") {
-        state.viewMode = modeParam;
       }
     } catch (e) {}
   }
